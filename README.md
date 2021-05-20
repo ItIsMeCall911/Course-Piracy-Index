@@ -1,3 +1,4 @@
+![CoursePiracy](https://user-images.githubusercontent.com/76810020/119037918-75fc9b00-b9aa-11eb-9b53-d82b856c5bc6.png)
 <div align="center">
 </div>
 <div align="center">
@@ -17,7 +18,7 @@
 * [Online-Courses.Club](https://online-courses.club/)
 * [Freebies Global](https://freebiesglobal.com/)
 * [FreeCourseSite](https://freecoursesite.com/)
-* [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
+* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
 * [CourseUpload](https://courseupload.com/)
 * [Udemy 24](https://udemy24.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
