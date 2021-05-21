@@ -66,6 +66,7 @@
 * [OnlineCoursesSchools](https://onlinecoursesschools.com/)
 * [Coursesity](https://coursesity.com/)
 * [Digital Defynd](https://digitaldefynd.com/)
+* [Coursevania](https://coursevania.com/)
 
 ## [↑](#contents) Platforms
 
