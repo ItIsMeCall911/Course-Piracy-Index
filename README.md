@@ -36,6 +36,13 @@
 * [ScanLibs](https://scanlibs.com/category/video/)
 * [Hacking World](https://in.hackingworld.best/)
 * [Downloadly](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to bypass Geo-blocking)
+* [GFX-HUB](https://gfx-hub.net/tutorials/)
+* [Grafixfather ](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
+* [GFXDrug](https://gfxdrug.com/premium-courses-free/)
+* [OnlineCourseBay](https://onlinecoursebay.com/)
+* [FreeTutorials-us](https://freetutorials-us.com/)
+* [UdemyDownload](https://udemydownload.com/)
+* [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials)
 
 ## [↑](#contents) Discount Sites
 
@@ -47,21 +54,36 @@
 * [Online Classes](https://www.onlinecourses.ooo/)
 * [Teachinguide](https://www.teachinguide.com/udemy-coupon-codes/)
 * [100OFFDEAL](https://100offdeal.online/)
+* [DiscountSeries](https://discountseries.com/)
 
 ## [↑](#contents) Find Courses To Pirate
+
 * [CourseCell](https://coursecell.com/)
 * [CourseMarks](https://coursemarks.com/)
 * [Class Central](https://www.classcentral.com/)
 * [Classpert](https://classpert.com/)
 * [Coursef](https://www.coursef.com/)
 * [OnlineCoursesSchools](https://onlinecoursesschools.com/)
+* [Coursesity](https://coursesity.com/)
+* [Digital Defynd](https://digitaldefynd.com/)
 
 ## [↑](#contents) Platforms
-* []()
-* []()
-* [](https://www.futurelearn.com/)
+
+* [Coursera](https://www.coursera.org/)
+* [Udemy](https://www.udemy.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Skillshare](https://www.skillshare.com/)
+* [Udacity](https://www.udacity.com/)
+* [edX](https://www.edx.org/)
+* [Lynda](https://www.lynda.com/) ([LinkedIn Learning 😒](https://www.linkedin.com/learning/))
+* [FutureLearn](https://www.futurelearn.com/)
+* [DataCamp](https://www.datacamp.com/)
+* [Domestika](https://www.domestika.org/)
+* [CLASS101](https://class101.co/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## [↑](#contents) Tools
+
 * [Decrypt PluralSight Videos GUI](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI)
 * [Pluralsight Scraper](https://github.com/ikeboy/pluralsight-scraper)
 * [Udemy Course Downloader (GUI)](https://github.com/FaisalUmair/udemy-downloader-gui)
