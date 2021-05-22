@@ -2,7 +2,7 @@
 <div align="center">
 </div>
 <div align="center">
-  	<b>👉 <a href="https://github.com/ItIsMeCall911/Course-Piracy-Index">Feel Free To Contribute</a> 👈</b>
+  	<b>👉 <a href="https://github.com/ItIsMeCall911/Course-Piracy-Index/pulls">Feel Free To Contribute</a> 👈</b>
 </div>
 
 ## 🗃 Contents
@@ -89,5 +89,5 @@
 * [Pluralsight Scraper](https://github.com/ikeboy/pluralsight-scraper)
 * [Udemy Course Downloader (GUI)](https://github.com/FaisalUmair/udemy-downloader-gui)
 * [Udemy-DL](https://github.com/r0oth3x49/udemy-dl)
-* [Skillshare video downloader](https://github.com/kallqvist/skillshare-downloader)
+* [Skillshare Video Downloader](https://github.com/kallqvist/skillshare-downloader)
 * [Coursera Downloader](https://github.com/coursera-dl/coursera-dl)
