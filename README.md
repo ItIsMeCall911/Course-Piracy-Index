@@ -43,6 +43,7 @@
 * [FreeTutorials-us](https://freetutorials-us.com/)
 * [UdemyDownload](https://udemydownload.com/)
 * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials)
+* [MixWayz](https://mixwayz.com/)
 
 ## [↑](#contents) Discount Sites
 
