@@ -35,7 +35,8 @@
 * [Tut4DL](https://tut4dl.com/)
 * [ScanLibs](https://scanlibs.com/category/video/)
 * [Hacking World](https://in.hackingworld.best/)
-* [Downloadly](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to bypass Geo-blocking)
+* [Downloadly](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to Bypass Geo-blocking)
+* [بیت دانلود](http://bitdownload.ir/learning/)
 * [GFX-HUB](https://gfx-hub.net/tutorials/)
 * [Grafixfather ](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
 * [GFXDrug](https://gfxdrug.com/premium-courses-free/)
@@ -44,6 +45,7 @@
 * [UdemyDownload](https://udemydownload.com/)
 * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials)
 * [MixWayz](https://mixwayz.com/)
+* [Share Assets](https://assets-share.blogspot.com/search/label/Courses)
 
 ## [↑](#contents) Discount Sites
 
@@ -68,6 +70,8 @@
 * [Coursesity](https://coursesity.com/)
 * [Digital Defynd](https://digitaldefynd.com/)
 * [Coursevania](https://coursevania.com/)
+* [Courseroot](https://courseroot.com/)
+* [Reddemy](https://reddemy.com/)
 
 ## [↑](#contents) Platforms
 
