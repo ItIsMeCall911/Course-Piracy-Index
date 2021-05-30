@@ -24,6 +24,7 @@
 * [GetFreeCourses](https://getfreecourses.co/)
 * [Course Catalog](https://coursecatalog.us/)
 * [TutFlix](https://tutflix.com/)
+* [TutFlixForum](https://tutflix.org/)
 * [FreeTuts](https://freetutsdownload.net/)
 * [Course Club](https://courseclub.me/)
 * [NOCOURSES](https://nocourses.com/)
@@ -58,6 +59,7 @@
 * [Teachinguide](https://www.teachinguide.com/udemy-coupon-codes/)
 * [100OFFDEAL](https://100offdeal.online/)
 * [DiscountSeries](https://discountseries.com/)
+* [Course Coupon Club](https://coursecouponclub.com/)
 
 ## [↑](#contents) Find Courses To Pirate
 
