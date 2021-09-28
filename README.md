@@ -22,8 +22,6 @@
 * [CourseUpload](https://courseupload.com/)
 * [Udemy 24](https://udemy24.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
-* [Course Catalog](https://coursecatalog.us/)
-* [TutFlix](https://tutflix.com/)
 * [TutFlixForum](https://tutflix.org/)
 * [FreeTuts](https://freetutsdownload.net/)
 * [Course Club](https://courseclub.me/)
@@ -46,7 +44,6 @@
 * [UdemyDownload](https://udemydownload.com/)
 * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials)
 * [MixWayz](https://mixwayz.com/)
-* [Share Assets](https://assets-share.blogspot.com/search/label/Courses)
 
 ## [↑](#contents) Discount Sites
 
