@@ -10,7 +10,7 @@
 - [Piracy Sites](#-piracy-sites)
     - [Misc](#-misc)
 - [Discount Sites](#-discount-sites)
-- [Course Index](#-course-index)
+- [Find Courses](#-find-courses)
 - [Platforms](#-platforms)
     - [Fully Free](#-fully-free) 
 - [Tools](#-tools)
@@ -46,6 +46,9 @@
 * [GigaCourse](https://gigacourse.com/)
 * [DownloadFreeCourse](https://downloadfreecourse.com/)
 * [Udemycourses](https://udemycourses.me/)
+* [Game Of Courses](https://gameofcourses.com/)
+* [CrunchLearn](https://www.crunchlearn.com/)
+* [Course Drive](https://coursedrive.org/)
     ## [↑](#contents) Misc
     * [Freesoff](https://freesoff.com/)
     * [Download Pirate](https://www.downloadpirate.com/tutorials/)
@@ -56,19 +59,20 @@
     * [ReleaseHive](https://releasehive.com/tutorials/)
     * [VFXDownload](https://vfxdownload.net/free-courses/)
     * [AVAXGFX](https://avaxgfx.com/video_tutorials/)
-    * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials)
+    * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials) - [Forum](https://forum.gfxdomain.net/forums/tutorials-releases.34/)
     * [GFX-HUB](https://gfx-hub.net/tutorials/)
     * [Grafixfather](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
     * [GFXDrug](https://gfxdrug.com/premium-courses-free/)
     * [بیت دانلود](http://bitdownload.ir/learning/)
     * Downloadly : [1](https://downloadly.net/) - [2](https://downloadly.ir/download/elearning/video-tutorials/) (Use Proxy or VPN to Bypass Geo-blocking)
     * [MixWayz](https://mixwayz.com/)
+    * [CertCommunity](https://www.certcommunity.org/forum/)
 
 ## [↑](#contents) Discount Sites
 
 * [Freebies Global](https://freebiesglobal.com/)
 * [DiscUdemy](https://www.discudemy.com/)
-* [DesiDime](https://www.desidime.com/groups/education/deals)
+* [DesiDime](https://www.desidime.com/groups/education/coupons)
 * [Learn Viral](https://udemycoupon.learnviral.com/)
 * [Real Discount](https://app.real.discount/)
 * [FCFA](https://freecoursesforall.com/)
@@ -81,29 +85,34 @@
 * [Coupon Scorpion](https://couponscorpion.com/)
 * [Course Kingdom](https://coursekingdom.xyz/)
 * [CursosDev](https://cursosdev.com/)
+* [Couponos](https://couponos.ooo/)
+* [IDC](https://idownloadcoupon.com/)
+* [CourseTime](https://coursetime.net/)
+* [BARONIP COUPONS](https://baronip-coupons.blogspot.com/)
+* [Coursevania](https://coursevania.com/)
+* [Jucktion Forum](https://www.jucktion.com/forum/udemy-coupon/)
 
-## [↑](#contents) Course Index
+## [↑](#contents) Find Courses
 
 * [My Mooc](https://www.my-mooc.com/en/)
 * [MOOC List](https://www.mooc-list.com/)
-* [SCOS](https://online.edu.ru/)
-* [Hackr.io](https://hackr.io/)
+* [Class Central](https://www.classcentral.com/)
 * [CourseCell](https://coursecell.com/)
 * [CourseMarks](https://coursemarks.com/)
-* [Class Central](https://www.classcentral.com/)
 * [Classpert](https://classpert.com/)
 * [Coursef](https://www.coursef.com/)
 * [CourseTalk](https://www.coursetalk.com/)
 * [OnlineCoursesSchools](https://onlinecoursesschools.com/)
 * [Coursesity](https://coursesity.com/)
 * [Digital Defynd](https://digitaldefynd.com/)
-* [Coursevania](https://coursevania.com/)
 * [Courseroot](https://courseroot.com/)
 * [Reddemy](https://reddemy.com/)
 * [MoocLab](https://www.mooclab.club/)
 * [Edukatico](https://www.edukatico.org/en)
 * [OfCourseMe](https://courses.ofcourse.me/)
 * [CourseFinder](https://www.coursefinder.com.au/)
+* [SCOS](https://online.edu.ru/)
+* [Hackr.io](https://hackr.io/)
 
 ## [↑](#contents) Platforms
 
@@ -131,6 +140,10 @@
     * [Khan Academy](https://www.khanacademy.org/)
     * [Neso Academy](https://www.nesoacademy.org/)
     * [Free4arab](https://free4arab.net/)
+    * [OpenLearn](https://www.open.edu/openlearn/)
+    * [Open Culture](https://www.openculture.com/freeonlinecourses)
+    * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses)
+    * [UdemyFreeCourses](https://udemyfreecourses.org/)
 
 ## [↑](#contents) Tools
 
@@ -142,3 +155,6 @@
 * [Udacimak - A Udacity Nanodegree Downloader](https://github.com/udacimak/udacimak)
 * [LinkedIn Learning Courses Downloader](https://github.com/ahmedayman4a/Linkedin-Learning-Courses-Downloader)
 * [Datacamp Downloader](https://github.com/TRoboto/datacamp-downloader)
+* [Eduonix Course Downloader](https://eduonix.pages.dev/)
+* [Khan-dl](https://github.com/rand-net/khan-dl)
+* [Discounted Udemy Course Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller)
