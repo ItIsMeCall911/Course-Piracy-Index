@@ -60,6 +60,7 @@
     * [VFXDownload](https://vfxdownload.net/free-courses/)
     * [AVAXGFX](https://avaxgfx.com/video_tutorials/)
     * [GFXDomain](https://gfxdomain.co/category/gfxdomain-tutorials) - [Forum](https://forum.gfxdomain.net/forums/tutorials-releases.34/)
+    * [CG Persia](https://cgpersia.com/category/download/learning)
     * [GFX-HUB](https://gfx-hub.net/tutorials/)
     * [Grafixfather](https://www.grafixfather.com/category/premium-graphics-tutorials-free-download/)
     * [GFXDrug](https://gfxdrug.com/premium-courses-free/)
@@ -91,6 +92,7 @@
 * [BARONIP COUPONS](https://baronip-coupons.blogspot.com/)
 * [Coursevania](https://coursevania.com/)
 * [Jucktion Forum](https://www.jucktion.com/forum/udemy-coupon/)
+* [Lore Beam](https://www.lorebeam.com/)
 
 ## [↑](#contents) Find Courses
 
@@ -113,6 +115,8 @@
 * [CourseFinder](https://www.coursefinder.com.au/)
 * [SCOS](https://online.edu.ru/)
 * [Hackr.io](https://hackr.io/)
+* [MadBright](https://madbright.com/)
+* [Elektev](https://elektev.com/)
 
 ## [↑](#contents) Platforms
 
