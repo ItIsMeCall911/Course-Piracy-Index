@@ -129,6 +129,8 @@
 * [Hackr.io](https://hackr.io/)
 * [MadBright](https://madbright.com/)
 * [Elektev](https://elektev.com/)
+* [Coursenator](https://www.coursenator.com/)
+* [SmartyBro](https://smartybro.com/)
 
 ## [↑](#contents) Platforms
 
