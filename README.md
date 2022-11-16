@@ -36,6 +36,7 @@
 * [OnlineCourseBay](https://onlinecoursebay.com/)
 * [FreeEducationWeb](https://freeeducationweb.com/)
 * [FreeCourseWebsite](https://freecoursewebsite.com/)
+* [TutsGalaxy](https://tutsgalaxy.net/) - [New website](https://dlcourse.org/)
 * [GigaCourse](https://gigacourse.com/)
 * [DownloadFreeCourse](https://downloadfreecourse.com/)
 * [Udemycourses](https://udemycourses.me/)
