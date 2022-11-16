@@ -49,7 +49,7 @@
 * [Downloadr](https://downloadr.in/)
     ## [↑](#contents) Misc
     * [Freesoff](https://freesoff.com/)
-    * [Download Pirate](https://www.downloadpirate.com/tutorials/)
+    * [Download Pirate](https://www.downloadpirate.com/tutorial/)
     * [Hacksnation](https://hacksnation.com/t/free-courses)
     * [Grafamania](http://www.grafamania.net/tutorials/)
     * [downTURK](https://downturk.net/learning/elearning/)
