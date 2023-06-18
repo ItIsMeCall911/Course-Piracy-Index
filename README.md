@@ -82,6 +82,7 @@
 
 * [Freebies Global](https://freebiesglobal.com/)
 * [DiscUdemy](https://www.discudemy.com/)
+* [Techlinks](https://www.techlinks.in/udemy-free-coupons)
 * [DesiDime](https://www.desidime.com/groups/education/coupons)
 * [Learn Viral](https://udemycoupon.learnviral.com/)
 * [Real Discount](https://app.real.discount/)
