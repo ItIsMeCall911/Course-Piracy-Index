@@ -20,7 +20,7 @@
 * [Online-Courses.Club](https://online-courses.club/)
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
-* [CourseUpload](https://courseupload.com/)
+* ~~[CourseUpload](https://courseupload.com/)~~ Deadlink
 * [GetFreeCourses](https://getfreecourses.co/)
 * [FreeCourseSite](https://freecoursesite.com/)
 * The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
