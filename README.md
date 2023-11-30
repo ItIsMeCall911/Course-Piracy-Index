@@ -57,6 +57,7 @@
 * [NetMan24](https://netman24.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%86%db%8c%da%a9/)
 * [Downloadr](https://downloadr.in/)
 * [Coursed](https://coursed.co/)
+* [CourseWikia](https://coursewikia.com/tutorials/)
     ## [↑](#contents) Misc
     * [Freesoff](https://freesoff.com/)
     * [Download Pirate](https://www.downloadpirate.com/tutorials/)
