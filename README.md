@@ -104,19 +104,15 @@
 * [FresherCooker](https://www.freshercooker.com/category/courses/)
 
 ## [↑](#contents) Find Courses
-
+* [Coursesity](https://coursesity.com/)
 * [My Mooc](https://www.my-mooc.com/en/)
 * [MOOC List](https://www.mooc-list.com/)
 * [Class Central](https://www.classcentral.com/)
 * [CourseCell](https://coursecell.com/)
-* [CourseMarks](https://coursemarks.com/)
-* [Classpert](https://classpert.com/)
 * [Coursef](https://www.coursef.com/)
 * [CourseTalk](https://www.coursetalk.com/)
 * [OnlineCoursesSchools](https://onlinecoursesschools.com/)
-* [Coursesity](https://coursesity.com/)
 * [Digital Defynd](https://digitaldefynd.com/)
-* [Courseroot](https://courseroot.com/)
 * [Reddemy](https://reddemy.com/)
 * [MoocLab](https://www.mooclab.club/)
 * [Edukatico](https://www.edukatico.org/en)
