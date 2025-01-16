@@ -2,7 +2,7 @@
 <div align="center">
 </div>
 <div align="center">
-  	<b>👉 <a href="https://github.com/ItIsMeCall911/Course-Piracy-Index/pulls">Feel Free To Contribute</a> 👈</b>
+  	<b>👉 <a href="https://github.com/MohaiminulEraj/Course-Piracy-Index/pulls">Feel Free To Contribute</a> 👈</b>
 </div>
 
 ## 🗃 Contents
@@ -13,6 +13,7 @@
 - [Find Courses](#-find-courses)
 - [Platforms](#-platforms)
     - [Fully Free](#-fully-free) 
+- [Project Guide](#-project-guide)
 - [Tools](#-tools)
 
 ## [↑](#contents) Piracy Sites
@@ -20,10 +21,11 @@
 * [Online-Courses.Club](https://online-courses.club/)
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
+* [FileCR](https://filecr.com/en/)
 * [CourseUpload](https://courseupload.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
 * [FreeCourseSite](https://freecoursesite.com/)
-* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/)
+* The F Squad : [FTU](https://www.ftuforums.com/) - [FCO](https://www.freecoursesonline.me/) - [FTU](https://www.freetutorialsus.com/) - [GFC](https://www.getfreecourses.org/) - [FTU](https://www.freetutorialseu.com/) - [FCS](https://www.freecoursessites.com/) - [FTU](https://www.ftuudemy.com/) - [FCL](https://www.freecourseslab.com/) - [FTH](http://freetutorialshub.com/) - [HTF](https://www.howtofree.org/)
 * CourseForFree : [1](https://courseforfree.com/) - [2](https://courseforfree.net/)
 * [Udemy 24](https://udemy24.com/)
 * [FreeTuts](https://freetutsdownload.net/)
@@ -57,6 +59,8 @@
 * [NetMan24](https://netman24.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%86%db%8c%da%a9/)
 * [Downloadr](https://downloadr.in/)
 * [Coursed](https://coursed.co/)
+* [Millionon Courses](http://milliononpcgames.com/)
+* [Technozune](http://technozune.com/)
     ## [↑](#contents) Misc
     * [Freesoff](https://freesoff.com/)
     * [Download Pirate](https://www.downloadpirate.com/tutorials/)
@@ -126,6 +130,8 @@
 * [Hackr.io](https://hackr.io/)
 * [MadBright](https://madbright.com/)
 * [Elektev](https://elektev.com/)
+* [Coursenator](https://www.coursenator.com/)
+* [SmartyBro](https://smartybro.com/)
 
 ## [↑](#contents) Platforms
 
@@ -170,6 +176,10 @@
     * [Oracle University](https://education.oracle.com/)
     * [IBM Digital Nation](https://developer.ibm.com/digitalnation/)
 
+## [↑](#contents) Project Guide
+* [CODEWITHC](https://www.codewithc.com/)
+* [StudentProjects](https://studentprojectguide.com/)
+* [Kashipara](https://www.kashipara.com/)
 ## [↑](#contents) Tools
 
 * Pluralsight Downloader : [phuonghd](https://github.com/phuonghd/Decrypt-PluralSight-Videos-GUI) - [ikeboy](https://github.com/ikeboy/pluralsight-scraper)
